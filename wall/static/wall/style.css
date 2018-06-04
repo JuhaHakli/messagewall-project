@@ -1,0 +1,30 @@
+body {
+}
+
+form {
+  padding-bottom: 60px;
+}
+
+.message {
+  border: 4px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  font-size: 24px;
+}
+
+.HAP {
+  background-color: #f2e259;
+}
+
+.SAD {
+  background-color: #5075af;
+}
+
+.ANG {
+  background-color: #ce6c65;
+}
+
+.COO {
+  background-color: #d074ed;
+}
